@@ -32,7 +32,7 @@
 
 int main (void)
 {
-  printf ("Raspberry Pi blink\n") ;
+  printf ("Orange Pi blink\n") ;
 
   wiringPiSetup () ;
   pinMode (LED, OUTPUT) ;
